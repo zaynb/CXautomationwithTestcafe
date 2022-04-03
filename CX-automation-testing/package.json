@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "faker": "^5.1.0"
+  },
+  "devDependencies": {
+    "testcafe": "^1.9.4"
+  }
+}

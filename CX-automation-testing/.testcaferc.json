@@ -1,0 +1,9 @@
+{
+"browsers": "chrome",
+"src": "tests",
+"concurrency": 1,
+"selectorTimeout": 60000,
+"assertionTimeout": 60000,
+"pageLoadTimout": 60000
+}
+
