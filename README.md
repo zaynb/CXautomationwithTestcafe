@@ -15,3 +15,4 @@ you'will find it on data.js
 Automation Tescases :
 1. Invalid login
 2. Valid login 
+3. Block user after 2 invalid trial 
