@@ -4,7 +4,7 @@ export default class testData {
 
     //credentials
     this.validCxUsername   = "test1";
-    this.validCxPassword   = "Passw0rd";
+    this.validCxPassword   = "";
     this.validCxUsername2   = "test2";
    
 
